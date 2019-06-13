@@ -1,1 +1,1 @@
-new branch content
+new branch conten+t conflict 2
