@@ -1,1 +1,1 @@
-New content in this file
+New content in this file + conflict resolution 1
